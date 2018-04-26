@@ -5,6 +5,9 @@
 https://www.hrwhisper.me/baidu-share-not-support-https-solution/
 
 ## 更新日志 ##
+### 2018.4.26 ###
+- 修改支持通过设置window._bd_share_baseUrl来配置基础url，默认为'/'
+
 ### 2016.11.23 ###
 - 回滚之前版本，重新上传
 
